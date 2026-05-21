@@ -1,0 +1,6 @@
+{
+  "name": "RankAura AI",
+  "description": "An all-in-one SEO automation, local ranking, keyword research, schema generation, and AI blog content generation platform customized for small businesses, bloggers, local businesses, and digital agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
